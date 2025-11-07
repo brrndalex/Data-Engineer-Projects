@@ -52,7 +52,7 @@
 
 
 **Python:**    
-[1. "Лучший по Python. Для всех начинающих!"]  
+[1. "Лучший по Python. Для всех начинающих!"](https://github.com/brrndalex/Data-Engineer-Projects/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%20%D0%BE%20%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2/stepik-certificate-214271-47fb129%20-python%20%D1%871_page-0001.jpg)    
 [2. "Лучший по Python. Часть 2."](https://github.com/brrndalex/Data-Engineer-Projects/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%20%D0%BE%20%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2/Stepik%20Certificate_%20%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B9%20%D0%BF%D0%BE%20Python.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202%20-%20stepik-certificate-221885-20cc6a1%20%D0%9F%D0%98%D0%A2%D0%9E%D0%9D.pdf)    
 [3. "Инди-курс программирования на Python."]  
 [4. "Функциональное программирование на Python."]  
