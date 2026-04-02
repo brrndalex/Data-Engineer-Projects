@@ -23,11 +23,7 @@
 [8. "Docker для начинающих + практический опыт."](https://github.com/brrndalex/Data-Engineer-Projects/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%20%D0%BE%20%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2/stepik-certificate-123300-a6f9c67-Docker_page-0001.jpg)    
 [9. "Терминал Linux. Основы."](https://github.com/brrndalex/Data-Engineer-Projects/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%20%D0%BE%20%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2/stepik-certificate-185439-6afd193-%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20linux_page-0001.jpg)          
 [10. "Знакомство с Docker."](https://github.com/brrndalex/Data-Engineer-Projects/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%20%D0%BE%20%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2/stepik-certificate-253174-c68f9d2-docker2_page-0001.jpg)               
-                
-
-
-**Excel:**   
-[1."Офисные приложения для начинающих (Word, Excel, Google сервисы)".](https://github.com/brrndalex/Data-Engineer-Projects/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%20%D0%BE%20%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2/stepik-certificate-111213-cae442c-%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%B2%D0%BE%D1%80%D0%B4%20%D0%B8%20%D1%8D%D0%BA%D1%81%D0%B5%D0%BB%D1%8C.pdf)        
+                        
 
 **SQL:**  
 [1."Собеседование по SQL: Теория и практика."](https://github.com/brrndalex/Data-Engineer-Projects/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%20%D0%BE%20%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2/SQL%20-stepik-certificate-228024-511b205-%D1%81%D0%BE%D0%B1%D0%B5%D1%81.pdf)  
@@ -86,4 +82,7 @@
 [2. BI-инструменты: Yandex DataLens, Power BI, Tableau.](https://github.com/brrndalex/Data-Engineer-Projects/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%20%D0%BE%20%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2/certificate%20bi-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82_page-0001.jpg)     
 
 **A/B-тестирование и прочее из аналитики:**    
-[1. Метрики.](https://github.com/brrndalex/Data-Engineer-Projects/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%20%D0%BE%20%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2/stepik-certificate-105359-f377481_page-0001.jpg)  
+[1. Метрики.](https://github.com/brrndalex/Data-Engineer-Projects/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%20%D0%BE%20%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2/stepik-certificate-105359-f377481_page-0001.jpg)   
+
+**Excel:**   
+[1."Офисные приложения для начинающих (Word, Excel, Google сервисы)".](https://github.com/brrndalex/Data-Engineer-Projects/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%20%D0%BE%20%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2/stepik-certificate-111213-cae442c-%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%B2%D0%BE%D1%80%D0%B4%20%D0%B8%20%D1%8D%D0%BA%D1%81%D0%B5%D0%BB%D1%8C.pdf)     
