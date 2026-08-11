@@ -30,12 +30,7 @@
 [2."Погружение в PostgreSQL."](https://github.com/brrndalex/Data-Engineer-Projects/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%20%D0%BE%20%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%20%D0%A4%D0%B8%D0%BB%D0%BE%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE_page-0001%20Postgre%20Selectel.jpg)   
 [3."SQL Start."](https://github.com/brrndalex/Data-Engineer-Projects/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%20%D0%BE%20%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2/stepik-certificate-240786-cd16c7d-sql%20start_page-0001.jpg)   
 [4."Основы SQL" от Mathshub.](https://github.com/brrndalex/Data-Engineer-Projects/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%20%D0%BE%20%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2/SQL-%D0%BC%D1%8D%D1%81%D1%85%D0%B0%D0%B1_page-0001.jpg)      
-[5."SQL практикум. Основы."]   
-[6. "SQL практикум. SELECT-запросы."]  
-[7."SQL практикум для начинающих и продолжающих (часть 1)."]  
-[8."SQL практикум. SELECT запросы от А до Я (часть 2)."]  
-[9."SQL практикум. Продвинутый уровень (часть 3)."]  
-[10."Интерактивный тренажер по SQL."]     
+[5."Интерактивный тренажер по SQL."]     
       
 
 
